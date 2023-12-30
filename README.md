@@ -3,7 +3,7 @@
 
 ## Contents
 - [Tools](#tools)
-  - [Mi Unclock (Official)](#mi-unclock-official)
+  - [Mi Unlock (Official)](#mi-unclock-official)
   - [MiTool](#mitool)
   - [Mi Unlock](#mi-unlock)
   - [Termux-MiUnlock](#termux-miunlock)
@@ -13,7 +13,7 @@
 
 **Note: This tools cannot bypass the 7, 14, 30 day unlock time.**
 
-#### Mi Unclock (Official)
+#### Mi Unlock (Official)
 
 [Official WebSite](https://en.miui.com/unlock/download_en.html)
 
