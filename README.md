@@ -30,7 +30,7 @@
 - Works ❓
 
 #### Termux-MiUnlock
-[GitHub](https://github.com/topminipie/termux-miunlock) (Not Open Source)
+[GitHub](https://github.com/RohitVerma882/termux-miunlock) (Not Open Source)
 
 - Open Source ❌
 - Run on linux ❌
