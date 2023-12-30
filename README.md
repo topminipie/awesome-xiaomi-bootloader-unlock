@@ -3,7 +3,7 @@
 
 ## Contents
 - [Tools](#tools)
-  - [Mi Unlock (Official)](#mi-unclock-official)
+  - [Mi Unlock (Official)](#mi-unlock-official)
   - [MiTool](#mitool)
   - [Mi Unlock](#mi-unlock)
   - [Termux-MiUnlock](#termux-miunlock)
