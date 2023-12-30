@@ -8,6 +8,7 @@
   - [Mi Unlock](#mi-unlock)
   - [Termux-MiUnlock](#termux-miunlock)
   - [XiaoMiToolV2](#xiaomitoolv2)
+- [Guides](#guides)
 
 ## Tools
 
@@ -58,3 +59,7 @@ My Works Fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
 - Run on linux ✅
 - Run without РС ❌
 - Works ❌ (Use [my fork](https://github.com/topminipie/XiaoMiToolV2))
+
+## Guides
+
+#### [Unlock Bootloader (GitHub)](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-BootLoader)
