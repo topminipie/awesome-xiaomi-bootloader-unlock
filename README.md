@@ -9,6 +9,7 @@
   - [Termux-MiUnlock](#termux-miunlock)
   - [XiaoMiToolV2](#xiaomitoolv2)
 - [Guides](#guides)
+    - [Unlock Bootloader](#unlock-bootloader-github)
 
 ## Tools
 
