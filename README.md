@@ -31,7 +31,7 @@
 - Open Source ✅
 - Run on linux ❓ (Probably yes)
 - Run without РС ✅ (Termux)
-- Works ❓ (Probably yes)
+- Works ✅
 
 #### Mi Unlock
 [GitHub](https://github.com/Canny1913/miunlock)
