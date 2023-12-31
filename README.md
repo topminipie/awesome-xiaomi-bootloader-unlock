@@ -24,6 +24,8 @@
 - Run without РС ❌
 - Works ✅
 
+#
+
 #### MiTool
 
 [GitHub](https://github.com/offici5l/MiTool)
@@ -33,6 +35,8 @@
 - Run without РС ✅ (Termux)
 - Works ✅
 
+#
+
 #### Mi Unlock
 [GitHub](https://github.com/Canny1913/miunlock)
 
@@ -41,6 +45,8 @@
 - Run without РС ❌
 - Works ❓
 
+#
+
 #### Termux-MiUnlock
 [GitHub](https://github.com/RohitVerma882/termux-miunlock) (Not Open Source)
 
@@ -48,6 +54,8 @@
 - Run on linux ❌
 - Run without РС ✅ (Termux)
 - Works ✅
+
+#
 
 #### XiaoMiToolV2
 [GitHub](https://github.com/francescotescari/XiaoMiToolV2)
