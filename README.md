@@ -74,6 +74,7 @@ My Works Fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
 
 #### MTKClient
 [GitHub](https://github.com/bkerler/mtkclient)
+[Unlock BootLoader](https://github.com/bkerler/mtkclient#unlock-bootloader)
 
 Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 
