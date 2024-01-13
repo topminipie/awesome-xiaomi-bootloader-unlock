@@ -8,6 +8,7 @@
   - [Mi Unlock](#mi-unlock)
   - [Termux-MiUnlock](#termux-miunlock)
   - [XiaoMiToolV2](#xiaomitoolv2)
+  - [MTKClient](#mtkclient)
 - [Guides](#guides)
     - [Unlock Bootloader](#unlock-bootloader-github)
 
@@ -68,6 +69,18 @@ My Works Fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
 - Run on linux ✅
 - Run without РС ❌
 - Works ❌ (Use [my fork](https://github.com/topminipie/XiaoMiToolV2))
+
+#
+
+#### MTKClient
+[GitHub](https://github.com/bkerler/mtkclient)
+
+Some MTK (MediaTek) devices can be unlocked bypassing the official method.
+
+- Open Source ✅
+- Run on linux ✅
+- Run without РС ❌
+- Works ✅ (Depends on luck)
 
 ## Guides
 
