@@ -14,7 +14,7 @@
 
 ## Tools
 
-**Note: This tools cannot bypass the 7, 14, 30 day unlock time.**
+**Note: This tools cannot bypass the 7, 14, 30 day unlock time.** (MTKClient exception)
 
 #### Mi Unlock (Official)
 
