@@ -23,6 +23,7 @@
 - Open Source ❌
 - Run on linux ❌
 - Run without РС ❌
+- Maintenance ✅
 - Works ✅
 
 #
@@ -34,6 +35,7 @@
 - Open Source ✅
 - Run on linux ❓ (Probably yes)
 - Run without РС ✅ (Termux)
+- Maintenance ✅
 - Works ✅
 
 #
@@ -44,6 +46,7 @@
 - Open Source ✅
 - Run on linux ✅
 - Run without РС ❌
+- Maintenance ❌
 - Works ❓
 
 #
@@ -54,6 +57,7 @@
 - Open Source ❌
 - Run on linux ❌
 - Run without РС ✅ (Termux)
+- Maintenance ✅
 - Works ✅
 
 #
@@ -68,6 +72,7 @@ My Works Fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
 - Open Source ✅
 - Run on linux ✅
 - Run without РС ❌
+- Maintenance ❌
 - Works ❌ (Use [my fork](https://github.com/topminipie/XiaoMiToolV2))
 
 #
@@ -82,6 +87,7 @@ Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 - Open Source ✅
 - Run on linux ✅
 - Run without РС ❌
+- Maintenance ✅
 - Works ✅ (Depends on luck)
 
 ## Guides
