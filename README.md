@@ -33,7 +33,7 @@
 [GitHub](https://github.com/offici5l/MiTool)
 
 - Open Source ✅
-- Run on linux ❓ (Probably yes)
+- Run on linux ✅ ([PC Version](https://github.com/offici5l/un-lock))
 - Run without РС ✅ (Termux)
 - Maintained ✅
 - Works ✅
