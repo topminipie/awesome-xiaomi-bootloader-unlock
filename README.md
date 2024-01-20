@@ -67,13 +67,13 @@
 
 The original XiaomiToolV2 is abandoned and it needed a small correction to make it run on linux.
 
-My Works Fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
+My Works Fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2) (abandoned)
 
 - Open Source ✅
 - Run on linux ✅
 - Run without РС ❌
 - Maintained ❌
-- Works ❌ (Use [my fork](https://github.com/topminipie/XiaoMiToolV2))
+- Works ❌ (Try [my fork](https://github.com/topminipie/XiaoMiToolV2))
 
 #
 
