@@ -8,8 +8,8 @@
   - [Mi Unlock](#mi-unlock)
   - [Termux-MiUnlock](#termux-miunlock)
   - [XiaoMiToolV2](#xiaomitoolv2)
-  - [MTKClient](#mtkclient)
   - [Xiaomi HyperOS BootLoader Bypass](#xiaomi-hyperos-bootloader-bypass)
+  - [MTKClient](#mtkclient)
 - [Guides](#guides)
     - [Unlock Bootloader](#unlock-bootloader-github)
 
@@ -85,6 +85,22 @@ My Works Fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2) (abandoned)
 
 #
 
+#### Xiaomi HyperOS BootLoader Bypass
+[GitHub](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)
+
+A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
+
+Only unlocks the bootloader (Does not unlock the bootloader), then you need to use the tools described above.
+
+- Open Source ✅
+- Run on linux ✅
+- Run without РС ❓ (Termux?)
+- Maintained ✅
+- Bypass HyperOS restrictions ✅
+- Works ✅
+
+#
+
 #### MTKClient
 [GitHub](https://github.com/bkerler/mtkclient)
 
@@ -98,20 +114,6 @@ Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 - Maintained ✅
 - Bypass HyperOS restrictions ❌
 - Works ✅ (Depends on luck)
-
-#
-
-#### Xiaomi HyperOS BootLoader Bypass
-[GitHub](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)
-
-A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
-
-- Open Source ✅
-- Run on linux ✅
-- Run without РС ❓ (Termux?)
-- Maintained ✅
-- Bypass HyperOS restrictions ✅
-- Works ✅
 
 ## Guides
 
