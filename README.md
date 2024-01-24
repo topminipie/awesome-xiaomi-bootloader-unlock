@@ -90,7 +90,7 @@ My Works Fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2) (abandoned)
 
 A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
 
-Only unlocks the bootloader (Does not unlock the bootloader), then you need to use the tools described above.
+Only bypasses HyperOS bootloader restrictions (Does not unlock the bootloader), then you need to use the tools described above.
 
 - Open Source ✅
 - Run on linux ✅
