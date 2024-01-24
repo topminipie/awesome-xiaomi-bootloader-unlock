@@ -99,6 +99,8 @@ Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 - Bypass HyperOS restrictions ❌
 - Works ✅ (Depends on luck)
 
+#
+
 #### Xiaomi HyperOS BootLoader Bypass
 [GitHub](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)
 
