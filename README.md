@@ -3,7 +3,7 @@
 
 ## Contents
 - [Tools](#tools)
-  - [Mi Unlock (Official)](#mi-unlock-official-xiaomi-tool)
+  - [Mi Unlock (Official)](#mi-flash-unlock-official-xiaomi-tool)
   - [MiTool](#mitool)
   - [Mi Unlock](#mi-unlock)
   - [Termux-MiUnlock](#termux-miunlock)
@@ -17,18 +17,24 @@
 
 **Note: This tools cannot bypass the 7, 14, 30 day unlock time.** (MTKClient exception)
 
-#### Mi Unlock (Official Xiaomi Tool)
+#### Mi Flash Unlock (Official Xiaomi Tool)
 
 [Official WebSite](https://en.miui.com/unlock/download_en.html)
 
-[Mi Unlock 6.5.224.28 Download link](https://miuirom.xiaomi.com/rom/u1106245679/6.5.224.28/miflash_unlock-en-6.5.224.28.zip)
+[Mi Flash Unlock 7.6.727.43 Download link](http://miuirom.xiaomi.com/rom/u1106245679/7.6.727.43/miflash_unlock_en_7.6.727.43.zip)
+
+[Mi Flash Unlock 6.6.510.37 Download link](http://miuirom.xiaomi.com/rom/u1106245679/6.6.510.37/miflash_unlock_en_6.6.510.37.zip)
+
+[Mi Flash Unlock 6.5.224.28 Download link](https://miuirom.xiaomi.com/rom/u1106245679/6.5.224.28/miflash_unlock-en-6.5.224.28.zip)
+
+[Mi Flash Unlock 5.5.224.24 Download link](https://miuirom.xiaomi.com/rom/u1106245679/5.5.224.24/miflash_unlock-en-5.5.224.24.zip)
 
 - Open Source ❌
 - Run on linux ❌
 - Run without РС ❌
 - Maintained ✅
 - Bypass HyperOS restrictions ❌ 
-- Works ✅
+- Works ✅ (If you have errors try other versions)
 
 #
 
