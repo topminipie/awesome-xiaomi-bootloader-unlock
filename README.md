@@ -21,9 +21,9 @@
 
 [Official WebSite](https://en.miui.com/unlock/download_en.html)
 
-[Mi Flash Unlock 7.6.727.43 Download link](http://miuirom.xiaomi.com/rom/u1106245679/7.6.727.43/miflash_unlock_en_7.6.727.43.zip)
+[Mi Flash Unlock 7.6.727.43 Download link](https://miuirom.xiaomi.com/rom/u1106245679/7.6.727.43/miflash_unlock_en_7.6.727.43.zip)
 
-[Mi Flash Unlock 6.6.510.37 Download link](http://miuirom.xiaomi.com/rom/u1106245679/6.6.510.37/miflash_unlock_en_6.6.510.37.zip)
+[Mi Flash Unlock 6.6.510.37 Download link](https://miuirom.xiaomi.com/rom/u1106245679/6.6.510.37/miflash_unlock_en_6.6.510.37.zip)
 
 [Mi Flash Unlock 6.5.224.28 Download link](https://miuirom.xiaomi.com/rom/u1106245679/6.5.224.28/miflash_unlock-en-6.5.224.28.zip)
 
