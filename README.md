@@ -33,7 +33,7 @@
 - Run on linux ❌
 - Run without РС ❌
 - Maintained ✅
-- Bypass HyperOS restrictions ❌ 
+- Bypass HyperOS china region restrictions ❌ 
 - Works ✅ (If you have errors try other versions)
 
 #
@@ -46,7 +46,7 @@
 - Run on linux ✅ ([PC Version](https://github.com/offici5l/un-lock))
 - Run without РС ✅ (Termux)
 - Maintained ✅
-- Bypass HyperOS restrictions ❓ [Link](https://github.com/offici5l/MiTool/blob/main/MT/bypass-bl.py)
+- Bypass HyperOS china region restrictions ❓ [Link](https://github.com/offici5l/MiTool/blob/main/MT/bypass-bl.py)
 - Works ✅
 
 #
@@ -58,7 +58,7 @@
 - Run on linux ✅
 - Run without РС ❌
 - Maintained ❌
-- Bypass HyperOS restrictions ❌
+- Bypass HyperOS china region restrictions ❌
 - Works ❓
 
 #
@@ -70,7 +70,7 @@
 - Run on linux ❌
 - Run without РС ✅ (Termux)
 - Maintained ✅
-- Bypass HyperOS restrictions ❌
+- Bypass HyperOS china region restrictions ❌
 - Works ✅
 
 #
@@ -86,7 +86,7 @@ My Works Fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2) (abandoned)
 - Run on linux ✅
 - Run without РС ❌
 - Maintained ❌
-- Bypass HyperOS restrictions ❌
+- Bypass HyperOS china region restrictions ❌
 - Works ❌ (Try [my fork](https://github.com/topminipie/XiaoMiToolV2))
 
 #
@@ -102,7 +102,7 @@ Only bypasses HyperOS bootloader restrictions (Does not unlock the bootloader), 
 - Run on linux ✅
 - Run without РС ❓ (Termux?)
 - Maintained ✅
-- Bypass HyperOS restrictions ✅
+- Bypass HyperOS china region restrictions ✅
 - Works ✅
 
 #
@@ -118,7 +118,7 @@ Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 - Run on linux ✅
 - Run without РС ❌
 - Maintained ✅
-- Bypass HyperOS restrictions ❌
+- Bypass HyperOS china region restrictions ❌
 - Works ✅ (Depends on luck)
 
 ## Guides
