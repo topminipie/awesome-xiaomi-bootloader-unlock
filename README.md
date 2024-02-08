@@ -123,4 +123,6 @@ Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 
 ## Guides
 
-#### [Unlock Bootloader (GitHub)](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-BootLoader)
+#### [Unlock Miui BootLoader (GitHub)](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-Miui-BootLoader)
+
+#### [Unlock HyperOS BootLoder (GitHub)](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-HyperOS-BootLoader)
