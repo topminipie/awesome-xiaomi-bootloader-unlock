@@ -98,7 +98,7 @@ A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restr
 
 Only bypasses HyperOS bootloader restrictions (Does not unlock the bootloader), then you need to use the tools described above.
 
-- Open Source: ✅ (Source code available), ❓ ([Link](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license))
+- Open Source: ❓ ([Link](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license), Source code available)
 - Run on linux: ✅
 - Run without РС: ❓ ([Termux?](https://github.com/termux/termux-app/releases/latest))
 - Maintained: ✅
