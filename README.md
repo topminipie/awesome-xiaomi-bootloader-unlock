@@ -29,12 +29,12 @@
 
 [Mi Flash Unlock 5.5.224.24 Download link](https://miuirom.xiaomi.com/rom/u1106245679/5.5.224.24/miflash_unlock-en-5.5.224.24.zip)
 
-- Open Source ❌
-- Run on linux ❌
-- Run without РС ❌
-- Maintained ✅
-- Bypass HyperOS china region restrictions ❌ 
-- Works ✅ (If you have errors try other versions)
+- Open Source: ❌
+- Run on linux: ❌
+- Run without РС: ❌
+- Maintained: ✅
+- Bypass HyperOS china region restrictions: ❌ 
+- Works: ✅ (If you have errors try other versions)
 
 #
 
@@ -42,36 +42,36 @@
 
 [GitHub](https://github.com/offici5l/MiTool)
 
-- Open Source ✅
-- Run on linux ✅ ([PC Version](https://github.com/offici5l/un-lock))
-- Run without РС ✅ ([Termux](https://github.com/termux/termux-app/releases/latest))
-- Maintained ✅
-- Bypass HyperOS china region restrictions ❓ [Link](https://github.com/offici5l/MiTool/blob/main/MT/bypass-bl.py)
-- Works ✅
+- Open Source: ✅
+- Run on linux: ✅ ([PC Version](https://github.com/offici5l/un-lock))
+- Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest))
+- Maintained: ✅
+- Bypass HyperOS china region restrictions: ❓ [Link](https://github.com/offici5l/MiTool/blob/main/MT/bypass-bl.py)
+- Works: ✅
 
 #
 
 #### Mi Unlock
 [GitHub](https://github.com/Canny1913/miunlock)
 
-- Open Source ✅
-- Run on linux ✅
-- Run without РС ❌
-- Maintained ❌
-- Bypass HyperOS china region restrictions ❌
-- Works ❓
+- Open Source: ✅
+- Run on linux: ✅
+- Run without РС: ❌
+- Maintained: ❌
+- Bypass HyperOS china region restrictions: ❌
+- Works: ❓
 
 #
 
 #### Termux-MiUnlock
 [GitHub](https://github.com/RohitVerma882/termux-miunlock) (Not Open Source)
 
-- Open Source ❌
-- Run on linux ❌
-- Run without РС ✅ ([Termux](https://github.com/termux/termux-app/releases/latest))
-- Maintained ✅
-- Bypass HyperOS china region restrictions ❌
-- Works ✅
+- Open Source: ❌
+- Run on linux: ❌
+- Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest))
+- Maintained: ✅
+- Bypass HyperOS china region restrictions: ❌
+- Works: ✅
 
 #
 
@@ -82,12 +82,12 @@ The original XiaomiToolV2 is abandoned and it needed a small correction to make 
 
 My Works Fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
 
-- Open Source ✅
-- Run on linux ✅
-- Run without РС ❌
-- Maintained ❌
-- Bypass HyperOS china region restrictions ❌
-- Works ❌ (Try [my fork](https://github.com/topminipie/XiaoMiToolV2))
+- Open Source: ✅
+- Run on linux: ✅
+- Run without РС: ❌
+- Maintained: ❌
+- Bypass HyperOS china region restrictions: ❌
+- Works: ❌ (Try [my fork](https://github.com/topminipie/XiaoMiToolV2))
 
 #
 
@@ -98,12 +98,12 @@ A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restr
 
 Only bypasses HyperOS bootloader restrictions (Does not unlock the bootloader), then you need to use the tools described above.
 
-- Open Source ✅
-- Run on linux ✅
-- Run without РС ❓ ([Termux?](https://github.com/termux/termux-app/releases/latest))
-- Maintained ✅
-- Bypass HyperOS china region restrictions ✅
-- Works ✅
+- Open Source: ✅ (Source code available), ❓ ([Link](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license))
+- Run on linux: ✅
+- Run without РС: ❓ ([Termux?](https://github.com/termux/termux-app/releases/latest))
+- Maintained: ✅
+- Bypass HyperOS china region restrictions: ✅
+- Works: ✅
 
 #
 
@@ -114,12 +114,12 @@ Only bypasses HyperOS bootloader restrictions (Does not unlock the bootloader), 
 
 Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 
-- Open Source ✅
-- Run on linux ✅
-- Run without РС ❌
-- Maintained ✅
-- Bypass HyperOS china region restrictions ❌
-- Works ✅ (Depends on luck)
+- Open Source: ✅
+- Run on linux: ✅
+- Run without РС: ❌
+- Maintained: ✅
+- Bypass HyperOS china region restrictions: ❌
+- Works: ✅ (Depends on luck)
 
 ## Guides
 
