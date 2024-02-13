@@ -11,7 +11,8 @@
   - [Xiaomi HyperOS BootLoader Bypass](#xiaomi-hyperos-bootloader-bypass)
   - [MTKClient](#mtkclient)
 - [Guides](#guides)
-    - [Unlock Bootloader](#unlock-bootloader-github)
+    - [Unlock Miui Bootloader](#unlock-miui-bootloader-github)
+    - [Unlock HuperOS Bootloader](#unlock-hyperos-bootloder-github)
 
 ## Tools
 
