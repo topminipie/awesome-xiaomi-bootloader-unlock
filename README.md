@@ -40,12 +40,14 @@
 
 #### MiTool
 
-[GitHub](https://github.com/offici5l/MiTool)
+~~[GitHub](https://github.com/offici5l/MiTool)~~ 
+
+blocked at the [request](https://github.com/github/dmca/blob/master/2024/02/2024-02-07-xiaomi-hyperos-bootloader-bypass.md) of [MlgmXyysd](https://github.com/MlgmXyysd) 🤬
 
 - Open Source: ✅
 - Run on linux: ✅ ([PC Version](https://github.com/offici5l/un-lock))
 - Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest))
-- Maintained: ✅
+- Maintained: ❓
 - Bypass HyperOS china region restrictions: ❓ [Link](https://github.com/offici5l/MiTool/blob/main/MT/bypass-bl.py)
 - Works: ✅
 
@@ -98,7 +100,7 @@ A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restr
 
 Only bypasses HyperOS bootloader restrictions (Does not unlock the bootloader), then you need to use the tools described above.
 
-- Open Source: ❓ ([Link](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license), Source code available)
+- Open Source: ❌❌❌ ([Link](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license), Source code available)
 - Run on linux: ✅
 - Run without РС: ❓ ([Termux?](https://github.com/termux/termux-app/releases/latest))
 - Maintained: ✅
