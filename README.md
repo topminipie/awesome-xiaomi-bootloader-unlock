@@ -22,16 +22,16 @@
 
 [Official WebSite](https://en.miui.com/unlock/download_en.html)
 
-[Mi Flash Unlock 7.6.727.43 Download link](https://miuirom.xiaomi.com/rom/u1106245679/7.6.727.43/miflash_unlock_en_7.6.727.43.zip)
+[Download Mi Flash Unlock 7.6.727.43](https://miuirom.xiaomi.com/rom/u1106245679/7.6.727.43/miflash_unlock_en_7.6.727.43.zip)
 
-[Mi Flash Unlock 6.6.510.37 Download link](https://miuirom.xiaomi.com/rom/u1106245679/6.6.510.37/miflash_unlock_en_6.6.510.37.zip)
+[Download Mi Flash Unlock 6.6.510.37](https://miuirom.xiaomi.com/rom/u1106245679/6.6.510.37/miflash_unlock_en_6.6.510.37.zip)
 
-[Mi Flash Unlock 6.5.224.28 Download link](https://miuirom.xiaomi.com/rom/u1106245679/6.5.224.28/miflash_unlock-en-6.5.224.28.zip)
+[Download Mi Flash Unlock 6.5.224.28](https://miuirom.xiaomi.com/rom/u1106245679/6.5.224.28/miflash_unlock-en-6.5.224.28.zip)
 
-[Mi Flash Unlock 5.5.224.24 Download link](https://miuirom.xiaomi.com/rom/u1106245679/5.5.224.24/miflash_unlock-en-5.5.224.24.zip)
+[Download Mi Flash Unlock 5.5.224.24](https://miuirom.xiaomi.com/rom/u1106245679/5.5.224.24/miflash_unlock-en-5.5.224.24.zip)
 
 - Open Source: ❌
-- Run on linux: ❌
+- Supported Desktop OS: Windows
 - Run without РС: ❌
 - Maintained: ✅
 - Bypass HyperOS china region restrictions: ❌ 
@@ -41,15 +41,15 @@
 
 #### MiTool
 
-~~[GitHub](https://github.com/offici5l/MiTool)~~ 
+~~[GitHub](https://github.com/offici5l/MiTool)~~ blocked at the [request](https://github.com/github/dmca/blob/master/2024/02/2024-02-07-xiaomi-hyperos-bootloader-bypass.md) of [MlgmXyysd](https://github.com/MlgmXyysd) 🤬
 
-blocked at the [request](https://github.com/github/dmca/blob/master/2024/02/2024-02-07-xiaomi-hyperos-bootloader-bypass.md) of [MlgmXyysd](https://github.com/MlgmXyysd) 🤬
+New [GitHub](https://github.com/offici5l/un-lock) repo
 
 - Open Source: ✅
-- Run on linux: ✅ ([PC Version](https://github.com/offici5l/un-lock))
+- Supported Desktop OS: Windows, Linux, MacOS
 - Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest))
-- Maintained: ❓
-- Bypass HyperOS china region restrictions: ❓ [Link](https://github.com/offici5l/MiTool/blob/main/MT/bypass-bl.py)
+- Maintained: ✅
+- Bypass HyperOS china region restrictions: ❌ (Lost)
 - Works: ✅
 
 #
@@ -58,7 +58,7 @@ blocked at the [request](https://github.com/github/dmca/blob/master/2024/02/2024
 [GitHub](https://github.com/Canny1913/miunlock)
 
 - Open Source: ✅
-- Run on linux: ✅
+- Supported Desktop OS: Windows, Linux, MacOS
 - Run without РС: ❌
 - Maintained: ❌
 - Bypass HyperOS china region restrictions: ❌
@@ -70,9 +70,9 @@ blocked at the [request](https://github.com/github/dmca/blob/master/2024/02/2024
 [GitHub](https://github.com/RohitVerma882/termux-miunlock) (Not Open Source)
 
 - Open Source: ❌
-- Run on linux: ❌
+- Supported Desktop OS: ❌
 - Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest))
-- Maintained: ✅
+- Maintained: ❓
 - Bypass HyperOS china region restrictions: ❌
 - Works: ✅
 
@@ -86,7 +86,7 @@ The original XiaomiToolV2 is abandoned and it needed a small correction to make 
 My Works Fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
 
 - Open Source: ✅
-- Run on linux: ✅
+- Supported Desktop OS: Linux
 - Run without РС: ❌
 - Maintained: ❌
 - Bypass HyperOS china region restrictions: ❌
@@ -101,8 +101,8 @@ A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restr
 
 Only bypasses HyperOS bootloader restrictions (Does not unlock the bootloader), then you need to use the tools described above.
 
-- Open Source: ❌❌❌ ([Link](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license), Source code available)
-- Run on linux: ✅
+- Open Source: ❌❌❌ ([License](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license), Source code available)
+- Supported Desktop OS: Windows, Linux, MacOS
 - Run without РС: ❓ ([Termux?](https://github.com/termux/termux-app/releases/latest))
 - Maintained: ✅
 - Bypass HyperOS china region restrictions: ✅
@@ -118,7 +118,7 @@ Only bypasses HyperOS bootloader restrictions (Does not unlock the bootloader), 
 Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 
 - Open Source: ✅
-- Run on linux: ✅
+- Supported Desktop OS: Windows, Linux, MacOS
 - Run without РС: ❌
 - Maintained: ✅
 - Bypass HyperOS china region restrictions: ❌
