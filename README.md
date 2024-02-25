@@ -49,7 +49,7 @@ New [GitHub](https://github.com/offici5l/un-lock) repo
 - Supported Desktop OS: Windows, Linux, MacOS
 - Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest))
 - Maintained: ✅
-- Bypass HyperOS china region restrictions: ❌ (Lost)
+- Bypass HyperOS china region restrictions: ❌
 - Works: ✅
 
 #
