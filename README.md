@@ -49,7 +49,7 @@ New [GitHub](https://github.com/offici5l/un-lock) repo
 - Supported Desktop OS: Windows, Linux, MacOS
 - Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest))
 - Maintained: ✅
-- Bypass HyperOS china region restrictions: ❌
+- Bypass HyperOS china region restrictions: ✅ ([Instruction](https://t.me/Offici5l_Group/1201)(Telegram), [Direct link to file](https://gitfront.io/r/offici5l/HQgPP45fVBBF/MiBypass/raw/MiBypass.py)(GitFront.io))
 - Works: ✅
 
 #
@@ -119,7 +119,7 @@ Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 
 - Open Source: ✅
 - Supported Desktop OS: Windows, Linux, MacOS
-- Run without РС: ❌
+- Run without РС: ❓ ([Termux?](https://github.com/termux/termux-app/releases/latest), [Link](https://github.com/bkerler/mtkclient/issues/684))
 - Maintained: ✅
 - Bypass HyperOS china region restrictions: ❌
 - Works: ✅ (Depends on luck)
