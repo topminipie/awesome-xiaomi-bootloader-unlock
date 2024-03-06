@@ -43,7 +43,7 @@
 
 ~~[GitHub](https://github.com/offici5l/MiTool)~~ blocked at the [request](https://github.com/github/dmca/blob/master/2024/02/2024-02-07-xiaomi-hyperos-bootloader-bypass.md) of [MlgmXyysd](https://github.com/MlgmXyysd) 🤬
 
-New [GitHub](https://github.com/offici5l/un-lock) repo
+New [GitHub](https://github.com/offici5l/MiUnlockTool) repo
 
 - Open Source: ✅
 - Supported Desktop OS: Windows, Linux, MacOS
