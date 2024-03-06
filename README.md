@@ -3,8 +3,8 @@
 
 ## Contents
 - [Tools](#tools)
-  - [Mi Unlock (Official)](#mi-flash-unlock-official-xiaomi-tool)
-  - [MiTool](#mitool)
+  - [Mi Flash Unlock (Official)](#mi-flash-unlock-official-xiaomi-tool)
+  - [MiTool & MiUnlockTool](#mitool--miunlocktool)
   - [Mi Unlock](#mi-unlock)
   - [Termux-MiUnlock](#termux-miunlock)
   - [XiaoMiToolV2](#xiaomitoolv2)
@@ -13,6 +13,7 @@
 - [Guides](#guides)
     - [Unlock Miui Bootloader](#unlock-miui-bootloader-github)
     - [Unlock HuperOS Bootloader](#unlock-hyperos-bootloder-github)
+    - [Bootloader Unlock Wall of Shame](#bootloader-unlock-wall-of-shame-unlock-bootloader-for-phones-of-other-vendors)
 
 ## Tools
 
@@ -39,7 +40,7 @@
 
 #
 
-#### MiTool
+#### MiTool & MiUnlockTool
 
 ~~[GitHub](https://github.com/offici5l/MiTool)~~ blocked at the [request](https://github.com/github/dmca/blob/master/2024/02/2024-02-07-xiaomi-hyperos-bootloader-bypass.md) of [MlgmXyysd](https://github.com/MlgmXyysd) 🤬
 
@@ -83,7 +84,7 @@ New [GitHub](https://github.com/offici5l/MiUnlockTool) repo
 
 The original XiaomiToolV2 is abandoned and it needed a small correction to make it run on linux.
 
-My Works Fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
+Try my fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
 
 - Open Source: ✅
 - Supported Desktop OS: Linux
@@ -129,3 +130,5 @@ Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 #### [Unlock Miui BootLoader (GitHub)](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-Miui-BootLoader)
 
 #### [Unlock HyperOS BootLoder (GitHub)](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-HyperOS-BootLoader)
+
+#### [Bootloader Unlock Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) (Unlock bootloader for phones of other vendors)
