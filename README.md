@@ -50,7 +50,7 @@ New [GitHub](https://github.com/offici5l/MiUnlockTool) repo
 - Supported Desktop OS: Windows, Linux, MacOS
 - Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest))
 - Maintained: ✅
-- Bypass HyperOS china region restrictions: ✅ ([Instruction](https://t.me/Offici5l_Group/1201)<sup>Telegram</sup> [Direct link to file](https://gitfront.io/r/offici5l/HQgPP45fVBBF/MiBypass/raw/MiBypass.py)<sup>GitFront.io</sup>)
+- Bypass HyperOS china region restrictions: ✅ ([Instruction](https://t.me/Offici5l_Group/1315)<sup>Telegram</sup> [Direct link to file](https://gitfront.io/r/offici5l/HQgPP45fVBBF/MiBypass/raw/MiBypassTool.py)<sup>GitFront.io</sup>)
 - Works: ✅
 
 #
