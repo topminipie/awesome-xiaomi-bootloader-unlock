@@ -40,7 +40,7 @@
 
 #
 
-#### MiTool & MiUnlockTool
+#### MiUnlockTool & MiBypassTool (Previously MiTool)
 
 ~~[GitHub](https://github.com/offici5l/MiTool)~~ blocked at the [request](https://github.com/github/dmca/blob/master/2024/02/2024-02-07-xiaomi-hyperos-bootloader-bypass.md) of [MlgmXyysd](https://github.com/MlgmXyysd) 🤬
 
