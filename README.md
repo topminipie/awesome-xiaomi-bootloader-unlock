@@ -4,7 +4,7 @@
 ## Contents
 - [Tools](#tools)
   - [Mi Flash Unlock (Official)](#mi-flash-unlock-official-xiaomi-tool)
-  - [MiTool & MiUnlockTool](#mitool--miunlocktool)
+  - [MiTool & MiUnlockTool](#miunlocktool--mibypasstool-previously-mitool)
   - [Mi Unlock](#mi-unlock)
   - [Termux-MiUnlock](#termux-miunlock)
   - [XiaoMiToolV2](#xiaomitoolv2)
