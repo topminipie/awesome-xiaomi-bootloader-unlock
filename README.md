@@ -4,7 +4,7 @@
 ## Contents
 - [Tools](#tools)
   - [Mi Flash Unlock (Official)](#mi-flash-unlock-official-xiaomi-tool)
-  - [MiTool & MiUnlockTool](#miunlocktool--mibypasstool-previously-mitool)
+  - [MiTool & MiUnlockTool](#miunlocktool--mibypasstool--mitool)
   - [Mi Unlock](#mi-unlock)
   - [Termux-MiUnlock](#termux-miunlock)
   - [XiaoMiToolV2](#xiaomitoolv2)
@@ -20,7 +20,6 @@
 **Note: This tools cannot bypass the 7, 14, 30 day unlock time.** (MTKClient exception)
 
 #### Mi Flash Unlock (Official Xiaomi Tool)
-
 [Official WebSite](https://en.miui.com/unlock/download_en.html)
 
 [Download Mi Flash Unlock 7.6.727.43](https://miuirom.xiaomi.com/rom/u1106245679/7.6.727.43/miflash_unlock_en_7.6.727.43.zip)
@@ -40,17 +39,19 @@
 
 #
 
-#### MiUnlockTool & MiBypassTool (Previously MiTool)
+#### MiUnlockTool & MiBypassTool & MiTool
 
-~~[GitHub](https://github.com/offici5l/MiTool)~~ blocked at the [request](https://github.com/github/dmca/blob/master/2024/02/2024-02-07-xiaomi-hyperos-bootloader-bypass.md) of [MlgmXyysd](https://github.com/MlgmXyysd) 🤬
+[MiUnlockTool GitHub](https://github.com/offici5l/MiUnlockTool)
 
-New [GitHub](https://github.com/offici5l/MiUnlockTool) repo
+[MiBypassTool GitHub](https://github.com/offici5l/MiBypassTool)
+
+[MiTool GitHub](https://github.com/offici5l/MiTool)
 
 - Open Source: ✅
-- Supported Desktop OS: Windows, Linux, MacOS
+- Supported Desktop OS: Windows, Linux, MacOS (MiTool only Android/[Termux](https://github.com/termux/termux-app/releases/latest))
 - Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest))
 - Maintained: ✅
-- Bypass HyperOS china region restrictions: ✅ ([Instruction](https://t.me/Offici5l_Group/1315)<sup>Telegram</sup> [Direct link to file](https://gitfront.io/r/offici5l/HQgPP45fVBBF/MiBypass/raw/MiBypassTool.py)<sup>GitFront.io</sup>)
+- Bypass HyperOS china region restrictions: ✅ ([MiBypassTool](https://github.com/offici5l/MiBypassTool))
 - Works: ✅
 
 #
