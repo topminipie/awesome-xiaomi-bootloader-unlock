@@ -1,6 +1,8 @@
 
 # Awesome Xiaomi BootLoader Unlock
 
+"✅❗" - Test it yourself
+
 ## Contents
 - [Tools](#tools)
   - [Mi Flash Unlock (Official)](#mi-flash-unlock-official-xiaomi-tool)
@@ -35,29 +37,26 @@
 - Run without РС: ❌
 - Maintained: ✅
 - Bypass HyperOS china region restrictions: ❌ 
-- Works: ✅ (If you have errors try other versions)
+- Works: ✅❗ (If you have errors try other versions)
 
 #
 
 #### MiUnlockTool & MiBypassTool & MiTool
-
-[MiUnlockTool GitHub](https://github.com/offici5l/MiUnlockTool)
-
-[MiBypassTool GitHub](https://github.com/offici5l/MiBypassTool)
-
-[MiTool GitHub](https://github.com/offici5l/MiTool)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiUnlockTool) <sup>&</sup> 
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiBypassTool) <sup>&</sup> 
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiTool)
 
 - Open Source: ✅
 - Supported Desktop OS: Windows, Linux, MacOS (MiTool only Android/[Termux](https://github.com/termux/termux-app/releases/latest))
 - Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest))
 - Maintained: ✅
 - Bypass HyperOS china region restrictions: ✅ ([MiBypassTool](https://github.com/offici5l/MiBypassTool))
-- Works: ✅
+- Works: ✅❗
 
 #
 
 #### Mi Unlock
-[GitHub](https://github.com/Canny1913/miunlock)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/Canny1913/miunlock)
 
 - Open Source: ✅
 - Supported Desktop OS: Windows, Linux, MacOS
@@ -69,19 +68,19 @@
 #
 
 #### Termux-MiUnlock
-[GitHub](https://github.com/RohitVerma882/termux-miunlock) (Not Open Source)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/RohitVerma882/termux-miunlock) <sup>(Not Open Source)</sup>
 
 - Open Source: ❌
 - Supported Desktop OS: ❌
 - Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest))
 - Maintained: ❓
 - Bypass HyperOS china region restrictions: ❌
-- Works: ✅
+- Works: ✅❗
 
 #
 
 #### XiaoMiToolV2
-[GitHub](https://github.com/francescotescari/XiaoMiToolV2)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/francescotescari/XiaoMiToolV2)
 
 The original XiaomiToolV2 is abandoned and it needed a small correction to make it run on linux.
 
@@ -97,23 +96,23 @@ Try my fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
 #
 
 #### Xiaomi HyperOS BootLoader Bypass
-[GitHub](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)
 
 A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
 
 Only bypasses HyperOS bootloader restrictions (Does not unlock the bootloader), then you need to use the tools described above.
 
-- Open Source: ❌❌❌ ([License](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license), Source code available)
+- Open Source: ❌ ([License](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license), Source code available)
 - Supported Desktop OS: Windows, Linux, MacOS
 - Run without РС: ❓ ([Termux?](https://github.com/termux/termux-app/releases/latest))
 - Maintained: ✅
 - Bypass HyperOS china region restrictions: ✅
-- Works: ✅
+- Works: ✅❗
 
 #
 
 #### MTKClient
-[GitHub](https://github.com/bkerler/mtkclient)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/bkerler/mtkclient)
 
 [Unlock BootLoader](https://github.com/bkerler/mtkclient#unlock-bootloader)
 
@@ -124,7 +123,7 @@ Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 - Run without РС: ❓ ([Termux?](https://github.com/termux/termux-app/releases/latest), [Link](https://github.com/bkerler/mtkclient/issues/684))
 - Maintained: ✅
 - Bypass HyperOS china region restrictions: ❌
-- Works: ✅ (Depends on luck)
+- Works: ✅❗
 
 ## Guides
 
