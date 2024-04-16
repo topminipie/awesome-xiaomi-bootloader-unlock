@@ -21,7 +21,7 @@
 
 **Note: This tools cannot bypass the 7, 14, 30 day unlock time.** (MTKClient exception)
 
-#### Mi Flash Unlock (Official Xiaomi Tool)
+### Mi Flash Unlock (Official Xiaomi Tool)
 [Official WebSite](https://en.miui.com/unlock/download_en.html)
 
 [Download Mi Flash Unlock 7.6.727.43](https://miuirom.xiaomi.com/rom/u1106245679/7.6.727.43/miflash_unlock_en_7.6.727.43.zip)
@@ -41,7 +41,7 @@
 
 #
 
-#### MiUnlockTool & MiBypassTool & MiTool
+### MiUnlockTool & MiBypassTool & MiTool
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiUnlockTool) <sup>&</sup> 
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiBypassTool) <sup>&</sup> 
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiTool)
@@ -55,7 +55,7 @@
 
 #
 
-#### Mi Unlock
+### Mi Unlock
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/Canny1913/miunlock)
 
 - Open Source: ✅
@@ -67,7 +67,7 @@
 
 #
 
-#### Termux-MiUnlock
+### Termux-MiUnlock
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/RohitVerma882/termux-miunlock) <sup>(Not Open Source)</sup>
 
 - Open Source: ❌
@@ -79,7 +79,7 @@
 
 #
 
-#### XiaoMiToolV2
+### XiaoMiToolV2
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/francescotescari/XiaoMiToolV2)
 
 The original XiaomiToolV2 is abandoned and it needed a small correction to make it run on linux.
@@ -95,7 +95,7 @@ Try my fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
 
 #
 
-#### Xiaomi HyperOS BootLoader Bypass
+### Xiaomi HyperOS BootLoader Bypass
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)
 
 A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
@@ -111,7 +111,7 @@ Only bypasses HyperOS bootloader restrictions (Does not unlock the bootloader), 
 
 #
 
-#### MTKClient
+### MTKClient
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/bkerler/mtkclient)
 
 [Unlock BootLoader](https://github.com/bkerler/mtkclient#unlock-bootloader)
