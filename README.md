@@ -20,7 +20,7 @@
 **Note: This tools cannot bypass the 7, 14, 30 day unlock time.** (MTKClient exception)
 
 ### Mi Flash Unlock (Official Xiaomi Tool)
-[Official WebSite](https://en.miui.com/unlock/download_en.html)
+[![WebSite](https://img.shields.io/static/v1?style=for-the-badge&message=WebSite&color=181717&logo=Xiaomi&logoColor=orange&label=)](https://en.miui.com/unlock/download_en.html)
 
 If you have errors try other versions:
 
