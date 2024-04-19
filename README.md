@@ -1,8 +1,6 @@
 
 # Awesome Xiaomi BootLoader Unlock
 
-"✅❗" - Test it yourself
-
 ## Contents
 - [Tools](#tools)
   - [Mi Flash Unlock (Official)](#mi-flash-unlock-official-xiaomi-tool)
@@ -24,6 +22,8 @@
 ### Mi Flash Unlock (Official Xiaomi Tool)
 [Official WebSite](https://en.miui.com/unlock/download_en.html)
 
+If you have errors try other versions:
+
 [Download Mi Flash Unlock 7.6.727.43](https://miuirom.xiaomi.com/rom/u1106245679/7.6.727.43/miflash_unlock_en_7.6.727.43.zip)
 
 [Download Mi Flash Unlock 6.6.510.37](https://miuirom.xiaomi.com/rom/u1106245679/6.6.510.37/miflash_unlock_en_6.6.510.37.zip)
@@ -37,21 +37,20 @@
 - Run without РС: ❌
 - Maintained: ✅
 - Bypass HyperOS china region restrictions: ❌ 
-- Works: ✅❗ (If you have errors try other versions)
 
 #
 
 ### MiUnlockTool & MiBypassTool & MiTool
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiUnlockTool) <sup>&</sup> 
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiBypassTool) <sup>&</sup> 
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiUnlockTool)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiBypassTool)
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiTool)
+[![Telegram Channel](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=181717&logo=Telegram&logoColor=blue&label=)](https://t.me/Offici5l_Channel)
 
 - Open Source: ✅
 - Supported Desktop OS: Windows, Linux, MacOS (MiTool only Android/[Termux](https://github.com/termux/termux-app/releases/latest))
 - Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest))
 - Maintained: ✅
 - Bypass HyperOS china region restrictions: ✅ ([MiBypassTool](https://github.com/offici5l/MiBypassTool))
-- Works: ✅❗
 
 #
 
@@ -63,19 +62,17 @@
 - Run without РС: ❌
 - Maintained: ❌
 - Bypass HyperOS china region restrictions: ❌
-- Works: ❓
 
 #
 
 ### Termux-MiUnlock
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/RohitVerma882/termux-miunlock) <sup>(Not Open Source)</sup>
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/RohitVerma882/termux-miunlock)
 
 - Open Source: ❌
 - Supported Desktop OS: ❌
 - Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest))
 - Maintained: ❓
 - Bypass HyperOS china region restrictions: ❌
-- Works: ✅❗
 
 #
 
@@ -91,7 +88,6 @@ Try my fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
 - Run without РС: ❌
 - Maintained: ❌
 - Bypass HyperOS china region restrictions: ❌
-- Works: ❌ (Try [my fork](https://github.com/topminipie/XiaoMiToolV2))
 
 #
 
@@ -107,7 +103,6 @@ Only bypasses HyperOS bootloader restrictions (Does not unlock the bootloader), 
 - Run without РС: ❓ ([Termux?](https://github.com/termux/termux-app/releases/latest))
 - Maintained: ✅
 - Bypass HyperOS china region restrictions: ✅
-- Works: ✅❗
 
 #
 
@@ -123,12 +118,11 @@ Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 - Run without РС: ❓ ([Termux?](https://github.com/termux/termux-app/releases/latest), [Link](https://github.com/bkerler/mtkclient/issues/684))
 - Maintained: ✅
 - Bypass HyperOS china region restrictions: ❌
-- Works: ✅❗
 
 ## Guides
 
-#### [Unlock Miui BootLoader (GitHub)](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-Miui-BootLoader)
+#### [Unlock Miui BootLoader](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-Miui-BootLoader)
 
-#### [Unlock HyperOS BootLoder (GitHub)](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-HyperOS-BootLoader)
+#### [Unlock HyperOS BootLoder](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-HyperOS-BootLoader)
 
 #### [Bootloader Unlock Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) (Unlock bootloader for phones of other vendors)
