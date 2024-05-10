@@ -70,8 +70,8 @@ If you have errors try other versions:
 
 - Open Source: ❌
 - Supported Desktop OS: ❌
-- Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest))
-- Maintained: ❓
+- Run without РС: ✅ (Android/[Termux](https://github.com/termux/termux-app/releases/latest))
+- Maintained: ❌
 - Bypass HyperOS china region restrictions: ❌
 
 #
@@ -100,7 +100,7 @@ Only bypasses HyperOS bootloader restrictions (Does not unlock the bootloader), 
 
 - Open Source: ❌ ([License](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license), Source code available)
 - Supported Desktop OS: Windows, Linux, MacOS
-- Run without РС: ❓ ([Termux?](https://github.com/termux/termux-app/releases/latest))
+- Run without РС: ❓ (Android/[Termux?](https://github.com/termux/termux-app/releases/latest))
 - Maintained: ✅
 - Bypass HyperOS china region restrictions: ✅
 
@@ -115,7 +115,7 @@ Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 
 - Open Source: ✅
 - Supported Desktop OS: Windows, Linux, MacOS
-- Run without РС: ❓ ([Termux?](https://github.com/termux/termux-app/releases/latest), [Link](https://github.com/bkerler/mtkclient/issues/684))
+- Run without РС: ❓ (Android/[Termux?](https://github.com/termux/termux-app/releases/latest), [issue #684](https://github.com/bkerler/mtkclient/issues/684))
 - Maintained: ✅
 - Bypass HyperOS china region restrictions: ❌
 
