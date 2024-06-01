@@ -45,7 +45,7 @@ If you have errors try other versions Mi Flash Unlock:
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiBypassTool)
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiTool)
 [![Telegram Channel](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=181717&logo=Telegram&logoColor=blue&label=)](https://t.me/Offici5l_Channel)
-[![Developer Website](https://img.shields.io/static/v1?style=for-the-badge&message=WebSite&color=181717&logo=blogger&logoColor=orange&label=)](https://offici5l.github.io)
+[![Developer Website](https://img.shields.io/static/v1?style=for-the-badge&message=Developer_Website&color=181717&logoColor=orange&label=)](https://offici5l.github.io)
 
 - Open Source: ✅
 - Supported Desktop OS: Windows, Linux, MacOS (MiTool only Android/[Termux](https://github.com/termux/termux-app/releases/latest))
