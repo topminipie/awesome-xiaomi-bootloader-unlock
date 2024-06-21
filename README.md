@@ -22,15 +22,15 @@
 ### Mi Flash Unlock (Official Xiaomi Tool)
 [![Website](https://img.shields.io/static/v1?style=for-the-badge&message=WebSite&color=181717&logo=Xiaomi&logoColor=orange&label=)](https://en.miui.com/unlock/download_en.html)
 
-If you have errors try other versions Mi Flash Unlock:
+<details>
+  <summary>If you have errors try other versions Mi Flash Unlock:</summary>
 
-[7.6.727.43](https://miuirom.xiaomi.com/rom/u1106245679/7.6.727.43/miflash_unlock_en_7.6.727.43.zip)
+<sub>[7.6.727.43](https://miuirom.xiaomi.com/rom/u1106245679/7.6.727.43/miflash_unlock_en_7.6.727.43.zip)</sub> <br>
+<sub>[6.6.510.37](https://miuirom.xiaomi.com/rom/u1106245679/6.6.510.37/miflash_unlock_en_6.6.510.37.zip)</sub> <br>
+<sub>[6.5.224.28](https://miuirom.xiaomi.com/rom/u1106245679/6.5.224.28/miflash_unlock-en-6.5.224.28.zip)</sub> <br>
+<sub>[5.5.224.24](https://miuirom.xiaomi.com/rom/u1106245679/5.5.224.24/miflash_unlock-en-5.5.224.24.zip)</sub>
 
-[6.6.510.37](https://miuirom.xiaomi.com/rom/u1106245679/6.6.510.37/miflash_unlock_en_6.6.510.37.zip)
-
-[6.5.224.28](https://miuirom.xiaomi.com/rom/u1106245679/6.5.224.28/miflash_unlock-en-6.5.224.28.zip)
-
-[5.5.224.24](https://miuirom.xiaomi.com/rom/u1106245679/5.5.224.24/miflash_unlock-en-5.5.224.24.zip)
+</details>
 
 - Open Source: ❌
 - Supported Desktop OS: Windows
@@ -91,9 +91,13 @@ Try my fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
 ### Xiaomi HyperOS BootLoader Bypass
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)
 
-A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings.
+<details>
+  <summary>Note:</summary>
 
-Only bypasses HyperOS bootloader restrictions (Does not unlock the bootloader), then you need to use the tools described above.
+A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings. <br>
+Only bypasses HyperOS bootloader restrictions (Does not unlock the bootloader), then you need to use the tools described above. <br>
+
+</details>
 
 - Open Source: ❌ ([License](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license), Source code available)
 - Supported Desktop OS: Windows, Linux, MacOS
