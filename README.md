@@ -115,7 +115,7 @@ Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 
 - Open Source: ✅
 - Supported Desktop OS: Windows, Linux, MacOS
-- Run without РС: ❓ (Android/[Termux?](https://github.com/termux/termux-app/releases/latest), [issue #684](https://github.com/bkerler/mtkclient/issues/684))
+- Run without РС: ❓ (Android/[Termux?](https://github.com/termux/termux-app/releases/latest), [issue #684](https://github.com/bkerler/mtkclient/issues/684), [issue #684](https://github.com/bkerler/mtkclient/issues/1113#issuecomment-2243611730))
 - Bypass HyperOS china region restrictions: ❌
 
 ## Guides
