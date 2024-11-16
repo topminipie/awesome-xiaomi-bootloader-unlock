@@ -38,7 +38,6 @@
 - Open Source: ❌
 - Supported Desktop OS: Windows
 - Run without РС: ❌
-- Bypass HyperOS china region restrictions: ❌ 
 
 #
 
@@ -53,7 +52,7 @@
 - Open Source: ✅
 - Supported Desktop OS: Windows, Linux, MacOS (MiTool only Android/[Termux](https://github.com/termux/termux-app/releases/latest))
 - Run without РС: ✅ (Android/[Termux](https://github.com/termux/termux-app/releases/latest))
-- Bypass HyperOS china region restrictions: ✅ ([MiBypassTool](https://github.com/offici5l/MiBypassTool))
+- Bypass some restrictions: [MiBypassTool](https://github.com/offici5l/MiBypassTool)
 
 #
 
@@ -63,7 +62,6 @@
 - Open Source: ✅
 - Supported Desktop OS: Windows, Linux, MacOS
 - Run without РС: ❌
-- Bypass HyperOS china region restrictions: ❌
 
 #
 
@@ -73,7 +71,6 @@
 - Open Source: ❌
 - Supported Desktop OS: ❌
 - Run without РС: ✅ (Android/[Termux](https://github.com/termux/termux-app/releases/latest))
-- Bypass HyperOS china region restrictions: ❌
 
 #
 
@@ -85,9 +82,8 @@ The original XiaomiToolV2 is abandoned and it needed a small correction to make 
 Try my fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
 
 - Open Source: ✅
-- Supported Desktop OS: Linux
+- Supported Desktop OS: Linux (Windows, MacOS *¯\ _ (ツ)_/¯*)
 - Run without РС: ❌
-- Bypass HyperOS china region restrictions: ❌
 
 #
 
@@ -105,7 +101,6 @@ Only bypasses HyperOS bootloader restrictions (Does not unlock the bootloader), 
 - Open Source: ❌ ([License](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license), Source code available)
 - Supported Desktop OS: Windows, Linux, MacOS
 - Run without РС: ❓ (Android/[Termux?](https://github.com/termux/termux-app/releases/latest))
-- Bypass HyperOS china region restrictions: ✅
 
 #
 
@@ -119,7 +114,6 @@ Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 - Open Source: ✅
 - Supported Desktop OS: Windows, Linux, MacOS
 - Run without РС: ❓ (Android/[Termux?](https://github.com/termux/termux-app/releases/latest), [issue #684](https://github.com/bkerler/mtkclient/issues/684), [issue #1113](https://github.com/bkerler/mtkclient/issues/1113#issuecomment-2243611730))
-- Bypass HyperOS china region restrictions: ❌
 
 ## Guides
 
@@ -127,4 +121,4 @@ Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 
 #### [Unlock HyperOS BootLoder](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-HyperOS-BootLoader)
 
-#### [Bootloader Unlock Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) (Unlock bootloader for phones of other vendors)
+#### [Bootloader Unlock Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) (Unlocking bootloader for other vendors)
