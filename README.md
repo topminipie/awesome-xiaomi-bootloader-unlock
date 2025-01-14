@@ -13,7 +13,7 @@
 - [Guides](#guides)
   - [Unlock Miui Bootloader](#unlock-miui-bootloader)
   - [Unlock HuperOS Bootloader](#unlock-hyperos-bootloder)
-  - [Bootloader Unlock Wall of Shame](#bootloader-unlock-wall-of-shame-unlock-bootloader-for-phones-of-other-vendors)
+  - [Bootloader Unlock Wall of Shame](#bootloader-unlock-wall-of-shame-unlocking-bootloader-for-other-vendors)
 
 ## Tools
 
