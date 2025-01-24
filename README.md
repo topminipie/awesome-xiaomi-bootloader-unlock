@@ -4,7 +4,7 @@
 ## Contents
 - [Tools](#tools)
   - [Mi Flash Unlock (Official Xiaomi Tool)](#mi-flash-unlock-official-xiaomi-tool)
-  - [MiUnlockTool & MiBypassTool & MiTool](#miunlocktool--mibypasstool--mitool)
+  - [MiUnlockTool & MiBypassTool & MiTool & MiCommunityTool & MiAssistantTool](#miunlocktool--mibypasstool--mitool--micommunitytool--miassistanttool)
   - [Mi Unlock](#mi-unlock)
   - [Termux-MiUnlock](#termux-miunlock)
   - [XiaoMiToolV2](#xiaomitoolv2)
@@ -41,23 +41,26 @@
 
 #
 
-### MiUnlockTool & MiBypassTool & MiTool
+### MiUnlockTool & MiBypassTool & MiTool & MiCommunityTool & MiAssistantTool
 
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiUnlockTool)
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiBypassTool)
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiTool)
-[![Telegram Channel](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=181717&logo=Telegram&logoColor=blue&label=)](https://t.me/Offici5l_Channel)
-[![Developer Website](https://img.shields.io/static/v1?style=for-the-badge&message=Developer_Website&color=181717&logoColor=orange&label=)](https://offici5l.github.io)
+GitHub:
+[![MiUnlockTool](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiUnlockTool)
+[![MiBypassTool](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiBypassTool)
+[![MiTool](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiTool)
+[![MiCommunityTool](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiCommunityTool)
+[![MiAssistantTool](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiAssistantTool)
+[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=181717&logo=Telegram&logoColor=blue&label=)](https://t.me/Offici5l_Channel)
+[![Website](https://img.shields.io/static/v1?style=for-the-badge&message=Developer_Website&color=181717&logoColor=orange&label=)](https://offici5l.github.io)
 
 - Open Source: ✅
-- Supported Desktop OS: Windows, Linux, MacOS (MiTool only Android/[Termux](https://github.com/termux/termux-app/releases/latest))
+- Supported Desktop OS: Windows, Linux, MacOS
 - Run without РС: ✅ (Android/[Termux](https://github.com/termux/termux-app/releases/latest))
 - Bypass some restrictions: [MiBypassTool](https://github.com/offici5l/MiBypassTool)
 
 #
 
 ### Mi Unlock
-~~[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/Canny1913/miunlock)~~ Page not found
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/Canny1913/miunlock) Page not found
 
 - Open Source: ✅
 - Supported Desktop OS: Windows, Linux, MacOS
@@ -89,14 +92,6 @@ Try my fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
 
 ### Xiaomi HyperOS BootLoader Bypass
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)
-
-<details>
-  <summary>Note:</summary>
-
-A PoC that exploits a vulnerability to bypass the Xiaomi HyperOS community restrictions of BootLoader unlocked account bindings. <br>
-Only bypasses HyperOS bootloader restrictions (Does not unlock the bootloader), then you need to use the tools described above. <br>
-
-</details>
 
 - Open Source: ❌ ([License](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license), Source code available)
 - Supported Desktop OS: Windows, Linux, MacOS
