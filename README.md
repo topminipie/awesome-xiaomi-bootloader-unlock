@@ -43,12 +43,11 @@
 
 ### MiUnlockTool & MiBypassTool & MiTool & MiCommunityTool & MiAssistantTool
 
-GitHub:
-[![MiUnlockTool](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiUnlockTool)
-[![MiBypassTool](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiBypassTool)
-[![MiTool](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiTool)
-[![MiCommunityTool](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiCommunityTool)
-[![MiAssistantTool](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiAssistantTool)
+[![MiUnlockTool](https://img.shields.io/static/v1?style=for-the-badge&message=MiUnlockTool&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiUnlockTool)
+[![MiBypassTool](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=MiBypassTool&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiBypassTool)
+[![MiTool](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=MiTool&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiTool)
+[![MiCommunityTool](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=MiCommunityTool&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiCommunityTool)
+[![MiAssistantTool](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=MiAssistantTool&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiAssistantTool)
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=181717&logo=Telegram&logoColor=blue&label=)](https://t.me/Offici5l_Channel)
 [![Website](https://img.shields.io/static/v1?style=for-the-badge&message=Developer_Website&color=181717&logoColor=orange&label=)](https://offici5l.github.io)
 
