@@ -70,8 +70,8 @@
 ### Termux-MiUnlock
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/RohitVerma882/termux-miunlock)
 
-- Open Source: ❌
-- Supported Desktop OS: ❌
+- Open Source: Partial Open Source? ([termux-miunlock-cli](https://github.com/RohitVerma882/termux-miunlock-cli))
+- Supported Desktop OS: Partial?
 - Run without РС: ✅ (Android/[Termux](https://github.com/termux/termux-app/releases/latest))
 
 #
