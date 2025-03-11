@@ -81,16 +81,16 @@ My fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
 
 - Source code available: ✅ ([MPL 2.0](https://github.com/TheAirBlow/HyperSploit/blob/main/LICENCE))
 - Supported Desktop OS: Windows, Linux, MacOS
-- Run without РС: ❌ (Android/[Termux?](https://github.com/termux/termux-app/releases/latest))
+- Run without РС: ❓
 
 #
 
-- ### Xiaomi HyperOS BootLoader Bypass
+### Xiaomi HyperOS BootLoader Bypass
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)
 
 - Source code available: ✅ ([License](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license))
 - Supported Desktop OS: Windows, Linux, MacOS
-- Run without РС: ❓ (Android/[Termux?](https://github.com/termux/termux-app/releases/latest))
+- Run without РС: ❓
 
 #
 
@@ -103,7 +103,7 @@ Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 
 - Source code available: ✅ ([GPL 3.0](https://github.com/bkerler/mtkclient/blob/main/LICENSE))
 - Supported Desktop OS: Windows, Linux, MacOS
-- Run without РС: ❓ (Android/[Termux?](https://github.com/termux/termux-app/releases/latest), [issue #684](https://github.com/bkerler/mtkclient/issues/684), [issue #1113](https://github.com/bkerler/mtkclient/issues/1113#issuecomment-2243611730))
+- Run without РС: ❓ ([issue #684](https://github.com/bkerler/mtkclient/issues/684), [issue #1113](https://github.com/bkerler/mtkclient/issues/1113#issuecomment-2243611730))
 
 ## Guides
 
