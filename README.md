@@ -36,7 +36,7 @@
 
 </details>
 
-- Source code available: ❌
+- Source code available: ❌ (Full proprietary)
 - Supported Desktop OS: Windows
 - Run without РС: ❌
 
