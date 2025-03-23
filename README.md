@@ -44,9 +44,9 @@
 
 ### MiUnlockTool & MiBypassTool & MiTool & MiCommunityTool & MiAssistantTool
 
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=MiUnlockTool&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l?tab=repositories)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l?tab=repositories)
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=181717&logo=Telegram&logoColor=blue&label=)](https://t.me/Offici5l_Channel)
-[![Website](https://img.shields.io/static/v1?style=for-the-badge&message=Developer_Website&color=181717&logoColor=orange&label=)](https://offici5l.github.io)
+[![Website](https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=181717&logoColor=orange&label=)](https://offici5l.github.io)
 
 - Source code available: ✅ (Apache 2.0)
 - Supported Desktop OS: Windows, Linux, MacOS
@@ -115,7 +115,7 @@ Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 
 ## Others
 
-#### [Penn5 miunlock](https://github.com/penn5/miunlock), [Canny1913 miunlock (My archive)](https://github.com/topminipie/miunlock)
+#### [Penn5 miunlock](https://github.com/penn5/miunlock), [Canny1913 miunlock (My archive)](https://github.com/topminipie/awesome-xiaomi-bootloader-unlock/releases/tag/0.0.0)
 
 #### [Technical details](https://github.com/lrh2000/Xiaomi-bootloader)
 
