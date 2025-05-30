@@ -57,7 +57,7 @@
 ### Termux-MiUnlock
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/RohitVerma882/termux-miunlock)
 
-- Source code available: Partial ([termux-miunlock-cli](https://github.com/RohitVerma882/termux-miunlock-cli), no account.apk)
+- Source code available: ❌
 - Supported Desktop OS: Windows, Linux, MacOS
 - Run without РС: ✅ (Android/[Termux](https://github.com/termux/termux-app/releases/latest))
 
