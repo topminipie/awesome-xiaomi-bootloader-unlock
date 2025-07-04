@@ -42,7 +42,7 @@
 
 #
 
-### MiUnlockTool & MiBypassTool & MiTool & MiCommunityTool & MiAssistantTool
+### MiTools & MiUnlockTool & MiBypassTool & MiCommunityTool
 
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l?tab=repositories)
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=181717&logo=Telegram&logoColor=blue&label=)](https://t.me/Offici5l_Channel)
@@ -50,7 +50,7 @@
 
 - Source code available: ✅ (Apache 2.0)
 - Supported Desktop OS: Windows, Linux, MacOS
-- Run without РС: ✅ (Android/[Termux](https://github.com/termux/termux-app/releases/latest))
+- Run without РС: ✅ ([Android app](https://github.com/offici5l/MiTools), [Termux](https://github.com/termux/termux-app/releases/latest))
 
 #
 
@@ -59,7 +59,7 @@
 
 - Source code available: ❌
 - Supported Desktop OS: Windows, Linux, MacOS
-- Run without РС: ✅ (Android/[Termux](https://github.com/termux/termux-app/releases/latest))
+- Run without РС: ✅ ([Termux](https://github.com/termux/termux-app/releases/latest))
 
 #
 
