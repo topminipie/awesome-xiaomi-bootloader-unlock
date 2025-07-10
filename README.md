@@ -1,10 +1,12 @@
 
 # Awesome Xiaomi BootLoader Unlock
 
-## Contents
+<details>
+  <summary>Content:</summary>
+
 - [Tools](#tools)
   - [Mi Flash Unlock (Official Xiaomi Tool)](#mi-flash-unlock-official-xiaomi-tool)
-  - [MiUnlockTool & MiBypassTool & MiTool & MiCommunityTool & MiAssistantTool](#miunlocktool--mibypasstool--mitool--micommunitytool--miassistanttool)
+  - [MiTools & MiUnlockTool & MiBypassTool & MiCommunityTool](#mitools--miunlocktool--mibypasstool--micommunitytool)
   - [Termux-MiUnlock](#termux-miunlock)
   - [XiaoMiToolV2](#xiaomitoolv2)
   - [HyperSploit](#hypersploit)
@@ -15,6 +17,8 @@
   - [Unlock HuperOS Bootloader](#unlock-hyperos-bootloder)
   - [Bootloader Unlock Wall of Shame](#bootloader-unlock-wall-of-shame-unlocking-bootloader-for-other-vendors)
 - [Others](#others)
+
+</details>
 
 ## Tools
 
