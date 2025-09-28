@@ -119,7 +119,9 @@ Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 
 ## Others
 
-#### [Penn5 miunlock](https://github.com/penn5/miunlock), [Canny1913 miunlock (My archive)](https://github.com/topminipie/awesome-xiaomi-bootloader-unlock/releases/tag/0.0.0)
+#### [Penn5 miunlock](https://github.com/penn5/miunlock), [Canny1913 miunlock (Archive)](https://github.com/topminipie/awesome-xiaomi-bootloader-unlock/releases/tag/0.0.0)
 
 #### [Technical details](https://github.com/lrh2000/Xiaomi-bootloader)
+
+#### [Penumbra](https://github.com/shomykohai/penumbra) - MTK flash tool
 
