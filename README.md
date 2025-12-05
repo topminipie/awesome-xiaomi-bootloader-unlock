@@ -12,6 +12,8 @@
   - [HyperSploit](#hypersploit)
   - [Xiaomi HyperOS BootLoader Bypass](#xiaomi-hyperos-bootloader-bypass)
   - [MTKClient](#mtkclient)
+  - [MiTools (Android app)](#mitools-android-app)
+  - [Penumbra (WIP)](#penumbra-wip)
 - [Guides](#guides)
   - [Unlock Miui Bootloader](#unlock-miui-bootloader)
   - [Unlock HuperOS Bootloader](#unlock-hyperos-bootloder)
@@ -109,6 +111,28 @@ Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 - Supported Desktop OS: Windows, Linux, MacOS
 - Run without РС: ❓ ([issue #684](https://github.com/bkerler/mtkclient/issues/684), [issue #1113](https://github.com/bkerler/mtkclient/issues/1113#issuecomment-2243611730))
 
+#
+
+### MiTools (Android app)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiTools)
+
+- Source code available: ✅ ([Apache 2.0](https://github.com/offici5l/MiTools/blob/main/LICENSE))
+- Supported Desktop OS: ❌
+- Run without РС: ✅
+
+#
+
+### Penumbra (WIP)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/shomykohai/penumbra)
+
+Some MTK (MediaTek) devices can be unlocked bypassing the official method.
+
+- Source code available: ✅ ([AGPL 3.0](https://github.com/shomykohai/penumbra#license))
+- Supported Desktop OS: Windows, Linux
+- Run without РС: ❌
+
+
+
 ## Guides
 
 #### [Unlock Miui BootLoader](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-Miui-BootLoader)
@@ -122,6 +146,3 @@ Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 #### [Penn5 miunlock](https://github.com/penn5/miunlock), [Canny1913 miunlock (Archive)](https://github.com/topminipie/awesome-xiaomi-bootloader-unlock/releases/tag/0.0.0)
 
 #### [Technical details](https://github.com/lrh2000/Xiaomi-bootloader)
-
-#### [Penumbra](https://github.com/shomykohai/penumbra) - MTK flash tool
-
