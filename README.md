@@ -56,7 +56,7 @@
 
 - Source code available: ✅ (Apache 2.0)
 - Supported Desktop OS: Windows, Linux, MacOS
-- Run without РС: ✅ ([Android app](https://github.com/offici5l/MiTools), [Termux](https://github.com/termux/termux-app/releases/latest))
+- Run without РС: ✅ ([Android app](#mitools-android-app), [Termux](https://github.com/termux/termux-app/releases/latest))
 
 #
 
@@ -130,7 +130,7 @@ Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 
 - Source code available: ✅ ([AGPL 3.0](https://github.com/shomykohai/penumbra#license))
 - Supported Desktop OS: Windows, Linux
-- Run without РС: ❌
+- Run without РС: ❓
 
 
 
