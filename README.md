@@ -104,7 +104,7 @@ My fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/bkerler/mtkclient)
 [![Fork](https://img.shields.io/static/v1?style=for-the-badge&message=Fork&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/R0rt1z2/mtkclient)
 
-[Unlock BootLoader](https://github.com/bkerler/mtkclient#unlock-bootloader)
+[Unlock BootLoader](https://github.com/bkerler/mtkclient/blob/main/README-USAGE.md#unlock-bootloader)
 
 Some MTK (MediaTek) devices can be unlocked bypassing the official method.
 
