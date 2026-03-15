@@ -155,3 +155,5 @@ Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official m
 #### [Penn5 miunlock](https://github.com/penn5/miunlock), [Canny1913 miunlock (Archive)](https://github.com/topminipie/awesome-xiaomi-bootloader-unlock/releases/tag/0.0.0)
 
 #### [Technical details](https://github.com/lrh2000/Xiaomi-bootloader)
+
+#### [Xiaomi-BootLoader-Questionnaire (Mostly in Chinese)](https://github.com/MlgmXyysd/Xiaomi-BootLoader-Questionnaire)
