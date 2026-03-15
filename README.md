@@ -7,24 +7,25 @@
 - [Tools](#tools)
   - [Mi Flash Unlock (Official Xiaomi Tool)](#mi-flash-unlock-official-xiaomi-tool)
   - [MiTools & MiUnlockTool & MiBypassTool & MiCommunityTool](#mitools--miunlocktool--mibypasstool--micommunitytool)
+  - [MiTools (Android app)](#mitools-android-app)
   - [Termux-MiUnlock](#termux-miunlock)
   - [XiaoMiToolV2](#xiaomitoolv2)
+  - [MTKClient](#mtkclient)
+  - [Penumbra](#penumbra)
   - [HyperSploit](#hypersploit)
   - [Xiaomi HyperOS BootLoader Bypass](#xiaomi-hyperos-bootloader-bypass)
-  - [MTKClient](#mtkclient)
-  - [MiTools (Android app)](#mitools-android-app)
-  - [Penumbra (WIP)](#penumbra-wip)
-- [Guides](#guides)
+- [More Info](#more-info)
   - [Unlock Miui Bootloader](#unlock-miui-bootloader)
   - [Unlock HuperOS Bootloader](#unlock-hyperos-bootloder)
-  - [Bootloader Unlock Wall of Shame](#bootloader-unlock-wall-of-shame-unlocking-bootloader-for-other-vendors)
+  - [Bootloader Unlock Wall of Shame (Xiaomi)](#bootloader-unlock-wall-of-shame-xiaomi)
+  - [Bootloader Unlock Wall of Shame (other vendors)](#bootloader-unlock-wall-of-shame-other-vendors)
 - [Others](#others)
 
 </details>
 
 ## Tools
 
-**Note: This tools cannot bypass the 7, 14, 30 day unlock time.** (MTKClient exception)
+**Note: This tools cannot bypass the 7, 14, 30 day unlock time.** (MTKClient, Penumbra exception)
 
 ### Mi Flash Unlock (Official Xiaomi Tool)
 [![Website](https://img.shields.io/static/v1?style=for-the-badge&message=WebSite_(Global)&color=181717&logo=Xiaomi&logoColor=orange&label=)](https://en.miui.com/unlock/download_en.html)
@@ -60,6 +61,15 @@
 
 #
 
+### MiTools (Android app)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiTools)
+
+- Source code available: ✅ ([Apache 2.0](https://github.com/offici5l/MiTools/blob/main/LICENSE))
+- Supported Desktop OS: ❌ ([MiUnlockTool](https://github.com/topminipie/awesome-xiaomi-bootloader-unlock/edit/main/README.md#mitools--miunlocktool--mibypasstool--micommunitytool))
+- Run without РС: ✅
+
+#
+
 ### Termux-MiUnlock
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/RohitVerma882/termux-miunlock)
 
@@ -82,7 +92,36 @@ My fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
 
 #
 
+### MTKClient
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/bkerler/mtkclient)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=Fork&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/R0rt1z2/mtkclient)
+
+Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official method.
+
+[Unlock BootLoader](https://github.com/bkerler/mtkclient/blob/main/README-USAGE.md#unlock-bootloader)
+
+- Source code available: ✅ ([GPL 3.0](https://github.com/bkerler/mtkclient/blob/main/LICENSE))
+- Supported Desktop OS: Windows, Linux, MacOS
+- Run without РС: ❓ ([issue #684 (WayBack Machine)](https://web.archive.org/web/20250319144300/https://github.com/bkerler/mtkclient/issues/684), [issue #1113 (WayBack Machine)](https://web.archive.org/web/20250527222018/https://github.com/bkerler/mtkclient/issues/1113#issuecomment-2243611730))
+
+#
+
+### Penumbra
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/shomykohai/penumbra)
+[![Docs](https://img.shields.io/static/v1?style=for-the-badge&message=Docs&color=181717&logoColor=FFFFFF&label=)](https://penumbra.itssho.my/)
+
+Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official method.
+
+[Unlock BootLoader](https://penumbra.itssho.my/Penumbra/Antumbra/CLI#unlock--relock-bootloader)
+
+- Source code available: ✅ ([AGPL 3.0](https://github.com/shomykohai/penumbra#license))
+- Supported Desktop OS: Windows, Linux, MacOS
+- Run without РС: ❓
+
+#
+
 ### HyperSploit
+<sup>(Patched HyperOS 2.0.203.0)</sup><br/>
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/TheAirBlow/HyperSploit)
 
 - Source code available: ✅ ([MPL 2.0](https://github.com/TheAirBlow/HyperSploit/blob/main/LICENCE))
@@ -92,6 +131,7 @@ My fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
 #
 
 ### Xiaomi HyperOS BootLoader Bypass
+<sup>(Patched HyperOS 2.0.203.0)</sup><br/>
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass)
 
 - Source code available: ✅ ([License](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license))
@@ -100,47 +140,15 @@ My fork - [GitHub](https://github.com/topminipie/XiaoMiToolV2)
 
 #
 
-### MTKClient
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/bkerler/mtkclient)
-[![Fork](https://img.shields.io/static/v1?style=for-the-badge&message=Fork&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/R0rt1z2/mtkclient)
-
-[Unlock BootLoader](https://github.com/bkerler/mtkclient/blob/main/README-USAGE.md#unlock-bootloader)
-
-Some MTK (MediaTek) devices can be unlocked bypassing the official method.
-
-- Source code available: ✅ ([GPL 3.0](https://github.com/bkerler/mtkclient/blob/main/LICENSE))
-- Supported Desktop OS: Windows, Linux, MacOS
-- Run without РС: ❓ ([issue #684](https://github.com/bkerler/mtkclient/issues/684), [issue #1113](https://github.com/bkerler/mtkclient/issues/1113#issuecomment-2243611730))
-
-#
-
-### MiTools (Android app)
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiTools)
-
-- Source code available: ✅ ([Apache 2.0](https://github.com/offici5l/MiTools/blob/main/LICENSE))
-- Supported Desktop OS: ❌
-- Run without РС: ✅
-
-#
-
-### Penumbra (WIP)
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/shomykohai/penumbra)
-
-Some MTK (MediaTek) devices can be unlocked bypassing the official method.
-
-- Source code available: ✅ ([AGPL 3.0](https://github.com/shomykohai/penumbra#license))
-- Supported Desktop OS: Windows, Linux
-- Run without РС: ❓
-
-
-
-## Guides
+## More Info
 
 #### [Unlock Miui BootLoader](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-Miui-BootLoader)
 
 #### [Unlock HyperOS BootLoder](https://github.com/topminipie/XiaoMiToolV2/wiki/Unlock-HyperOS-BootLoader)
 
-#### [Bootloader Unlock Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) (Unlocking bootloader for other vendors)
+#### [Bootloader Unlock Wall of Shame (Xiaomi)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame/blob/main/brands/xiaomi/README.md)
+
+#### [Bootloader Unlock Wall of Shame (other vendors)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame)
 
 ## Others
 
