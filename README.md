@@ -65,7 +65,7 @@
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiTools)
 
 - Source code available: ✅ ([Apache 2.0](https://github.com/offici5l/MiTools/blob/main/LICENSE))
-- Supported Desktop OS: ❌ ([MiUnlockTool](https://github.com/topminipie/awesome-xiaomi-bootloader-unlock/edit/main/README.md#mitools--miunlocktool--mibypasstool--micommunitytool))
+- Supported Desktop OS: ❌ ([MiUnlockTool](#mitools--miunlocktool--mibypasstool--micommunitytool))
 - Run without РС: ✅
 
 #
