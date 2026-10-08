@@ -6,7 +6,7 @@
 
 - [Tools](#tools)
   - [Mi Flash Unlock (Official Xiaomi Tool)](#mi-flash-unlock-official-xiaomi-tool)
-  - [MiTools & MiUnlockTool & MiBypassTool & MiCommunityTool](#mitools--miunlocktool--mibypasstool--micommunitytool)
+  - [MiTools & MiUnlockTool & MiCommunityTool](#mitools--miunlocktool--micommunitytool)
   - [MiTools (Android app)](#mitools-android-app)
   - [Termux-MiUnlock](#termux-miunlock)
   - [XiaoMiToolV2](#xiaomitoolv2)
@@ -49,23 +49,23 @@
 
 #
 
-### MiTools & MiUnlockTool & MiBypassTool & MiCommunityTool
+### MiTools & MiUnlockTool & MiCommunityTool
 
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l?tab=repositories)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/orgs/MiForge/repositories)
 [![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=181717&logo=Telegram&logoColor=blue&label=)](https://t.me/Offici5l_Channel)
-[![Website](https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=181717&logoColor=orange&label=)](https://offici5l.github.io)
+[![Website](https://img.shields.io/static/v1?style=for-the-badge&message=Website&color=181717&logoColor=orange&label=)](https://miforge.github.io/)
 
 - Source code available: ✅ (Apache 2.0)
 - Supported Desktop OS: Windows, Linux, MacOS
-- Run without РС: ✅ ([Android app](#mitools-android-app), [Termux](https://github.com/termux/termux-app/releases/latest))
+- Run without РС: ✅ ([Android app](#mitools-android-app), [Termux](https://github.com/termux/termux-app/releases/latest) - [1](https://github.com/MiForge/MiUnlockTool/blob/main/INSTALL.md#android-termux), [2](https://github.com/MiForge/MiTool#notes))
 
 #
 
 ### MiTools (Android app)
-[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/offici5l/MiTools)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/MiForge/MiTools)
 
 - Source code available: ✅ ([Apache 2.0](https://github.com/offici5l/MiTools/blob/main/LICENSE))
-- Supported Desktop OS: ❌ ([MiUnlockTool](#mitools--miunlocktool--mibypasstool--micommunitytool))
+- Supported Desktop OS: ❌ ([MiUnlockTool](#mitools--miunlocktool--micommunitytool))
 - Run without РС: ✅
 
 #
@@ -120,6 +120,18 @@ Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official m
 
 #
 
+### Umbrage
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/progzone122/umbrage)
+[![Telegram](https://img.shields.io/static/v1?style=for-the-badge&message=Telegram&color=181717&logo=Telegram&logoColor=blue&label=)](https://t.me/umbrage_project)
+
+Cross-platform GUI tool for working with MediaTek SOC-based devices, built on top of the [penumbra](#penumbra) core.
+
+- Source code available: ✅ ([AGPL 3.0](https://github.com/shomykohai/penumbra#license))
+- Supported Desktop OS: Windows, Linux, MacOS
+- Run without РС: ❓
+
+#
+
 ### HyperSploit
 <sup>(Patched HyperOS 2.0.203.0)</sup><br/>
 [![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/TheAirBlow/HyperSploit)
@@ -137,8 +149,6 @@ Some MediaTek devices (not only Xiaomi) can be unlocked bypassing the official m
 - Source code available: ✅ ([License](https://github.com/MlgmXyysd/Xiaomi-HyperOS-BootLoader-Bypass#%EF%B8%8F-license))
 - Supported Desktop OS: Windows, Linux, MacOS
 - Run without РС: ❓
-
-#
 
 ## More Info
 
