@@ -19,6 +19,7 @@
   - [Unlock HuperOS Bootloader](#unlock-hyperos-bootloder)
   - [Bootloader Unlock Wall of Shame (Xiaomi)](#bootloader-unlock-wall-of-shame-xiaomi)
   - [Bootloader Unlock Wall of Shame (other vendors)](#bootloader-unlock-wall-of-shame-other-vendors)
+  - [Pad 5 Unbrick Forensics Case File (error 20045)](#pad-5-unbrick-forensics-case-file-error-20045)
 - [Others](#others)
 
 </details>
@@ -159,6 +160,12 @@ Cross-platform GUI tool for working with MediaTek SOC-based devices, built on to
 #### [Bootloader Unlock Wall of Shame (Xiaomi)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame/blob/main/brands/xiaomi/README.md)
 
 #### [Bootloader Unlock Wall of Shame (other vendors)](https://github.com/zenfyrdev/bootloader-unlock-wall-of-shame)
+
+#### Pad 5 Unbrick Forensics Case File (error 20045)
+[![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)](https://github.com/Pierce6688/pad5-nabu-unbrick-forensics-Hermes-agent)
+[![License](https://img.shields.io/static/v1?style=for-the-badge&message=MIT&color=181717&logoColor=FFFFFF&label=)](https://github.com/Pierce6688/pad5-nabu-unbrick-forensics-Hermes-agent/blob/main/LICENSE)
+
+A complete forensics case file on an official unlock attempt that failed with **error 20045** (region hard-check) on a Xiaomi Pad 5, and the follow-up EDL/firehose/flash investigation that traced the brick to a physical UFS failure. AI-agent-led workflow, documented for hardware novices. EN / 繁中 / 简中.
 
 ## Others
 
